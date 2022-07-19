@@ -33,3 +33,6 @@ All resistors have the same value by design, so there is no issue in mixing and 
 # Get it up and running:
 
 Connect a CR2032 coin cell on the back, turn on the switch, and get ready to make a highscore! That's it, your cute mini 8-bit arcade machine is ready😀. You can upload a new game into your Tinycade, code your own or even hack it and use it any other way you think of 🦄
+
+# Shop link:
+https://robo.com.cy/products/tinycade-8bit-arcade-machine
