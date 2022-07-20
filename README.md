@@ -34,5 +34,12 @@ All resistors have the same value by design, so there is no issue in mixing and 
 
 Connect a CR2032 coin cell on the back, turn on the switch, and get ready to make a highscore! That's it, your cute mini 8-bit arcade machine is ready😀. You can upload a new game into your Tinycade, code your own or even hack it and use it any other way you think of 🦄
 
+# Uploading a new game:
+As we already mentioned, Tinycade runs on an ultra simple, yet beautifully powerful microcontroller named Attiny85. In order to connect the Attiny to a PC and reprogram it, an AVR (AVR is a family of microcontrollers developed since 1996 by Atmel, acquired by Microchip Technology in 2016) compatible ISP programmer has to be used. ISP stands for "In-System Programming" (ISP), or also called "In-circuit Serial Programming" (ICSP). If you do not have an ISP programmer lying around, USBtinyISP is a small cost efficient ISP programmer that can be used. The ISP interface of Tinycade can be found on the bottom:
+
+![TinycadeISP_Interface _P](https://user-images.githubusercontent.com/90136800/179990085-54071509-4de1-40d1-8f7f-830c7c74227d.png)
+
+Just be careful of the pinout and the polarity of the ISP programmer when connecting it with the Tinycade. After downloading the HEX file with the game of your choice from our GitHub page, you can use a HEX uploader program like XLoader (or AVRDUDE if you are familiar with) to write the new game in your Tinycade. That's it! Enjoy try making the best highscore 🕹️ 
+
 # Shop link:
 https://robo.com.cy/products/tinycade-8bit-arcade-machine
