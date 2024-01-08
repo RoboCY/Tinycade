@@ -43,3 +43,10 @@ Just be careful of the pinout and the polarity of the ISP programmer when connec
 
 # Shop link:
 https://robo.com.cy/products/tinycade-8bit-arcade-machine
+
+# Contributions and relevant information:
+Games and sketches developed by [Ilya Titov ❤️](https://webboggles.com/)
+
+Games and sketches developed by [Andy Jackson ❤️](https://github.com/andyhighnumber/Attiny-Arduino-Games)
+
+Inspired by the original AttinyArcade by [Ilya Titov ❤️](https://github.com/webboggles/AttinyArcade)
